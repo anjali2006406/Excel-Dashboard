@@ -1,0 +1,797 @@
+Order Date,Customer Name,State,Category,Sub-Category,Product Name,Sales,Quantity,Profit
+03-14,Darren Powers,Texas,Office Supplies,Paper,"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",16.45,2,5.55
+04-14,Phillina Ober,Illinois,Office Supplies,Labels,Avery 508,11.78,3,4.27
+05-14,Mick Brown,Pennsylvania,Office Supplies,Art,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",19.54,3,4.88
+06-14,Lycoris Saunders,California,Office Supplies,Paper,Xerox 225,19.44,3,9.33
+06-14,Jack O'Briant,Georgia,Office Supplies,Art,"Dixon Prang Watercolor Pencils, 10-Color Set with Brush",12.78,3,5.24
+06-14,Maria Etezadi,Kentucky,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,2573.82,9,746.41
+07-14,Vivek Sundaresam,Texas,Furniture,Furnishings,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",76.73,3,-53.71
+09-14,Melanie Seite,Texas,Office Supplies,Art,Newell 312,9.34,2,1.17
+10-14,Anthony Jacobs,Virginia,Office Supplies,Labels,Avery 482,2.89,1,1.36
+11-14,Seth Vernon,Delaware,Furniture,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",9.94,2,3.08
+13-14,Chris Selesnick,Louisiana,Office Supplies,Envelopes,Staple envelope,11.36,2,5.34
+13-14,Natalie DeCherney,South Carolina,Furniture,Chairs,Global Highback Leather Tilter in Burgundy,545.94,6,87.35
+13-14,Brian Dahlen,California,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,1325.85,5,238.65
+13-14,Michael Moore,Ohio,Office Supplies,Paper,Xerox 1923,37.41,7,13.09
+14-14,Brendan Sweed,Pennsylvania,Furniture,Bookcases,Sauder Cornerstone Collection Library,61.96,4,-53.29
+15-14,Erica Hackney,Georgia,Technology,Accessories,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,149.95,5,65.98
+16-14,Delfina Latchford,Pennsylvania,Furniture,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,127.1,6,28.6
+18-14,David Wiener,Oregon,Office Supplies,Appliances,Fellowes Mighty 8 Compact Surge Protector,64.86,4,6.49
+19-14,Toby Swindell,Arizona,Office Supplies,Binders,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",32.34,10,-23.72
+20-14,Hunter Lopez,Arkansas,Technology,Phones,Apple iPhone 5C,699.93,7,181.98
+20-14,Mark Van Huff,California,Office Supplies,Paper,"Wirebound Service Call Books, 5 1/2"" x 4""",19.36,2,9.29
+20-14,Xylona Preis,Michigan,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,13.98,1,4.05
+20-14,Muhammed MacIntyre,Tennessee,Office Supplies,Binders,GBC DocuBind TL200 Manual Binding Machine,67.19,1,-51.52
+21-14,Tom Boeckenhauer,Florida,Furniture,Furnishings,Ultra Door Pull Handle,25.25,3,4.1
+23-14,Ionia McGrath,Nevada,Office Supplies,Paper,Xerox 195,40.08,6,19.24
+23-14,Speros Goranitis,Indiana,Office Supplies,Fasteners,"Alliance Big Bands Rubber Bands, 12/Pack",5.94,3,0
+26-14,Shirley Daniels,Virginia,Furniture,Furnishings,"GE General Use Halogen Bulbs, 100 Watts, 1 Bulb per Pack",62.82,3,30.78
+26-14,Carol Adams,South Dakota,Office Supplies,Binders,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,10.68,2,5.02
+27-14,Ed Jacobs,California,Office Supplies,Storage,Recycled Steel Personal File for Hanging File Folders,57.23,1,14.31
+28-14,Jasper Cacioppo,New York,Office Supplies,Binders,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",3.93,1,1.33
+30-14,Mike Vittorini,Michigan,Office Supplies,Paper,Xerox 1972,10.56,2,4.75
+31-14,Liz Carlisle,California,Furniture,Bookcases,"Sauder Facets Collection Library, Sky Alder Finish",290.67,2,3.42
+01-14,Bradley Drucker,Wisconsin,Technology,Accessories,Enermax Aurora Lite Keyboard,468.9,6,206.32
+02-14,Cynthia Delaney,California,Office Supplies,Fasteners,Staples,12.35,5,5.8
+02-14,Eric Barreto,Florida,Office Supplies,Binders,Surelock Post Binders,18.34,2,-12.22
+04-14,Deborah Brumfield,California,Office Supplies,Binders,GBC Recycled Grain Textured Covers,82.9,3,29.01
+04-14,Mark Haberlin,California,Office Supplies,Binders,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",17.25,2,6.04
+06-14,Neil Ducich,Virginia,Office Supplies,Labels,Avery 480,15,4,7.2
+07-14,Cyma Kinney,New Jersey,Technology,Accessories,Maxell DVD-RAM Discs,115.36,7,49.6
+08-14,Nathan Mautz,Nevada,Furniture,Furnishings,"Master Caster Door Stop, Large Brown",14.56,2,5.53
+11-14,Natalie Fritzler,Virginia,Technology,Accessories,Enermax Aurora Lite Keyboard,234.45,3,103.16
+11-14,Guy Armstrong,Missouri,Furniture,Chairs,"Global Value Mid-Back Manager's Chair, Gray",60.89,1,15.22
+12-14,Sanjit Chand,California,Furniture,Chairs,"Global Geo Office Task Chair, Gray",129.57,2,-24.29
+14-14,Shui Tom,Texas,Office Supplies,Paper,"Memo Book, 100 Message Capacity, 5 3/8 x 11",16.18,3,6.07
+14-14,Marina Lichtenstein,Washington,Technology,Accessories,Logitech G600 MMO Gaming Mouse,239.97,3,86.39
+15-14,Barry Französisch,Washington,Office Supplies,Binders,Pressboard Data Binders by Wilson Jones,21.36,5,7.21
+16-14,Michael Nguyen,Texas,Office Supplies,Binders,Wilson Jones Easy Flow II Sheet Lifters,1.08,3,-1.73
+18-14,Troy Blackwell,Texas,Furniture,Furnishings,"DAX Copper Panel Document Frame, 5 x 7 Size",25.16,5,-11.32
+18-14,Aaron Bergman,Texas,Office Supplies,Storage,Akro Stacking Bins,12.62,2,-2.52
+20-14,Linda Cazamias,Indiana,Technology,Accessories,Enermax Briskie RF Wireless Keyboard and Mouse Combo,62.31,3,22.43
+20-14,Steven Roelle,California,Office Supplies,Paper,Xerox 204,12.96,2,6.22
+21-14,Tamara Manning,Illinois,Office Supplies,Binders,GBC Standard Plastic Binding Systems Combs,8.85,5,-13.72
+22-14,Sue Ann Reed,California,Office Supplies,Paper,Xerox 220,19.44,3,9.33
+23-14,Michael Grace,Texas,Office Supplies,Labels,Staple-on labels,6.94,3,2.34
+24-14,Jennifer Halladay,Oregon,Office Supplies,Paper,"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",32.9,4,11.1
+27-14,Joy Smith,Ohio,Office Supplies,Art,Zebra Zazzle Fluorescent Highlighters,19.46,4,3.4
+01-14,Dave Brooks,Washington,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,457.57,2,51.48
+01-14,Hallie Redmond,New York,Technology,Phones,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,5.94,3,1.6
+01-14,Vicky Freymann,Illinois,Furniture,Chairs,Novimex Swivel Fabric Task Chair,634.12,6,-172.12
+01-14,Shahid Collister,Texas,Office Supplies,Fasteners,Plymouth Boxed Rubber Bands by Plymouth,18.84,5,-3.53
+01-14,Giulietta Weimer,Texas,Office Supplies,Storage,Recycled Steel Personal File for Hanging File Folders,137.35,3,8.58
+02-14,Kristina Nunn,New York,Office Supplies,Envelopes,Staple envelope,11.36,2,5.34
+02-14,Nicole Hansen,Pennsylvania,Office Supplies,Paper,Xerox 1971,3.42,1,1.07
+03-14,Ashley Jarboe,North Carolina,Office Supplies,Art,Zebra Zazzle Fluorescent Highlighters,19.46,4,3.4
+03-14,Anne Pryor,New York,Technology,Phones,PowerGen Dual USB Car Charger,9.99,1,4.6
+03-14,Jill Stevenson,Ohio,Office Supplies,Labels,Avery 495,15.12,3,4.91
+03-14,Sam Craven,Texas,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,176.77,3,-459.61
+03-14,Eva Jacobs,California,Furniture,Tables,"Bevis Oval Conference Table, Walnut",626.35,3,-23.49
+04-14,Clay Ludtke,South Carolina,Office Supplies,Storage,Sensible Storage WireTech Storage Systems,354.9,5,17.75
+05-14,Aimee Bixby,New York,Office Supplies,Art,Newell 345,59.52,3,15.48
+07-14,Nora Pelletier,Washington,Office Supplies,Binders,Catalog Binders with Expanding Posts,107.65,2,33.64
+07-14,Craig Molinari,Washington,Office Supplies,Art,Newell Chalk Holder,20.65,5,9.5
+10-14,Scott Williamson,Michigan,Office Supplies,Paper,"Geographics Note Cards, Blank, White, 8 1/2"" x 11""",22.38,2,10.74
+10-14,Kean Thornton,Colorado,Office Supplies,Storage,Tennsco 6- and 18-Compartment Lockers,636.41,3,-15.91
+11-14,Chloris Kastensmidt,Ohio,Furniture,Furnishings,Eldon Wave Desk Accessories,8.32,5,2.29
+11-14,Kelly Andreada,New York,Office Supplies,Paper,"Southworth 100% Résumé Paper, 24lb.",108.92,14,49.01
+11-14,Filia McAdams,Kentucky,Office Supplies,Appliances,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",146.76,3,38.16
+11-14,Richard Bierner,California,Office Supplies,Art,Economy #2 Pencils,7.98,3,2.07
+14-14,Dean Katz,California,Office Supplies,Paper,Xerox 1972,10.56,2,4.75
+14-14,Christine Kargatis,Virginia,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,1139.92,4,284.98
+14-14,Jason Fortune-,Utah,Office Supplies,Binders,GBC Wire Binding Combs,33.09,4,11.17
+14-14,Rick Bensley,Illinois,Technology,Machines,Hewlett-Packard Deskjet 6540 Color Inkjet Printer,574.91,2,156.05
+14-14,Neil Französisch,Florida,Office Supplies,Paper,Xerox 1887,91.06,6,31.87
+15-14,Alan Shonely,Florida,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",142.78,1,17.85
+17-14,Bradley Nguyen,Minnesota,Office Supplies,Appliances,Bionaire Personal Warm Mist Humidifier/Vaporizer,93.78,2,36.57
+17-14,Christine Phan,New York,Furniture,Tables,Bretford Rectangular Conference Table Tops,1579.75,7,-447.59
+17-14,Annie Zypern,Texas,Office Supplies,Art,Newell 333,4.45,2,0.33
+17-14,Quincy Jones,Pennsylvania,Office Supplies,Paper,Xerox 1909,126.62,6,41.15
+18-14,Sean Miller,Florida,Technology,Machines,Hewlett-Packard Deskjet 6540 Color Inkjet Printer,821.3,4,-16.43
+18-14,Eileen Kiefer,California,Furniture,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",1198.33,10,70.49
+18-14,Sample Company A,California,Furniture,Furnishings,Eldon Cleatmat Chair Mats for Medium Pile Carpets,111,2,14.43
+19-14,Matt Connell,Florida,Technology,Phones,Cisco 8x8 Inc. 6753i IP Business Phone System,323.98,3,28.35
+21-14,Cassandra Brandow,Ohio,Office Supplies,Art,"Binney & Smith Crayola Metallic Colored Pencils, 8-Color Set",7.41,2,1.2
+21-14,Thomas Seio,North Carolina,Office Supplies,Storage,Tennsco Commercial Shelving,16.27,1,-3.86
+21-14,Kristen Hastings,Virginia,Technology,Phones,Samsung Galaxy S4 Active,3499.93,7,909.98
+21-14,Gary McGarr,Tennessee,Office Supplies,Labels,Avery 505,59.2,5,22.2
+22-14,Craig Carroll,North Carolina,Office Supplies,Binders,"C-Line Peel & Stick Add-On Filing Pockets, 8-3/4 x 5-1/8, 10/Pack",7.64,4,-5.86
+22-14,Beth Fritzler,Arizona,Office Supplies,Paper,Xerox 1951,74.35,3,23.24
+22-14,Vivian Mathis,Indiana,Office Supplies,Art,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",16.28,2,6.51
+23-14,Patrick O'Donnell,California,Office Supplies,Storage,Economy Rollaway Files,330.4,2,85.9
+23-14,Bruce Geld,Florida,Office Supplies,Labels,Avery 476,9.91,3,3.22
+24-14,Carlos Daly,New York,Office Supplies,Paper,Xerox 190,24.9,5,11.7
+24-14,Maurice Satty,California,Furniture,Furnishings,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",40.48,2,14.57
+25-14,Christina Anderson,California,Office Supplies,Art,Newell 35,6.56,2,1.9
+26-14,Jonathan Doherty,California,Technology,Accessories,SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card,66.3,3,8.62
+26-14,Damala Kotsonis,California,Office Supplies,Art,Newell 308,3.36,2,0.84
+26-14,Cindy Stewart,California,Office Supplies,Labels,Smead Alpha-Z Color-Coded Name Labels First Letter Starter Set,18.75,5,9
+28-14,Christina VanderZanden,Iowa,Office Supplies,Envelopes,Poly String Tie Envelopes,6.12,3,2.88
+28-14,Daniel Raglin,New Mexico,Technology,Phones,AT&T TR1909W,302.38,3,22.68
+28-14,Mike Pelletier,Ohio,Furniture,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,330.59,1,-143.25
+29-14,Mike Gockenbach,Texas,Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,890.84,3,-152.72
+30-14,Kunst Miller,New York,Office Supplies,Art,Peel-Off China Markers,49.65,5,20.85
+30-14,Dorris liebe,Washington,Office Supplies,Storage,Sterilite Show Offs Storage Containers,15.84,3,0
+30-14,Susan Gilcrest,New York,Office Supplies,Art,"Sanford EarthWrite Recycled Pencils, Medium Soft, #2",10.5,5,2.94
+30-14,Mark Packer,Texas,Office Supplies,Envelopes,Airmail Envelopes,335.72,5,113.31
+30-14,Nat Carroll,Minnesota,Office Supplies,Storage,Space Solutions Commercial Steel Shelving,129.3,2,6.47
+31-14,Alex Avila,California,Office Supplies,Binders,GBC DocuBind 200 Manual Binding Machine,673.57,2,252.59
+31-14,Jas O'Carroll,Pennsylvania,Office Supplies,Binders,Avery Round Ring Poly Binders,0.85,1,-0.6
+31-14,Dorothy Dickinson,Illinois,Office Supplies,Binders,Fellowes Black Plastic Comb Bindings,8.13,7,-13.83
+31-14,Karen Bern,Florida,Office Supplies,Binders,Avery Hole Reinforcements,1.87,1,-1.31
+31-14,Trudy Glocke,Florida,Furniture,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",1125.49,7,98.48
+01-14,Katharine Harms,Massachusetts,Office Supplies,Storage,Rogers Profile Extra Capacity Storage Tub,66.96,4,2.68
+02-14,Rob Dowd,Georgia,Office Supplies,Paper,Xerox 1990,15.84,3,7.13
+02-14,Anna Häberlin,Virginia,Furniture,Furnishings,Luxo Adjustable Task Clamp Lamp,177.68,2,46.2
+03-14,Katrina Edelman,California,Office Supplies,Envelopes,Staple envelope,11.16,2,5.58
+04-14,Paul Knutson,California,Office Supplies,Labels,Avery 518,18.9,6,9.07
+04-14,Mary Zewe,California,Office Supplies,Binders,Avery Non-Stick Binders,7.18,2,2.25
+04-14,Ken Black,Louisiana,Office Supplies,Storage,Safco Commercial Shelving,232.55,5,9.3
+05-14,Tracy Hopkins,New York,Office Supplies,Paper,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",55.48,1,26.63
+05-14,Greg Maxwell,Virginia,Office Supplies,Art,Crayola Colored Pencils,22.96,7,7.58
+05-14,John Grady,Illinois,Office Supplies,Storage,"Tenex File Box, Personal Filing Tote with Lid, Black",49.63,4,3.72
+05-14,Ruben Dartt,Michigan,Office Supplies,Art,Stanley Contemporary Battery Pencil Sharpeners,26.7,2,7.48
+05-14,Roy Phan,Kentucky,Office Supplies,Binders,Ibico Standard Transparent Covers,115.36,7,56.53
+06-14,Guy Phonely,Pennsylvania,Office Supplies,Binders,Large Capacity Hanging Post Binders,44.91,6,-35.93
+06-14,Scott Cohen,Washington,Furniture,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",653.55,3,111.1
+06-14,Andy Yotov,California,Furniture,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,91.96,2,15.63
+06-14,Frank Hawley,California,Office Supplies,Art,Boston Home & Office Model 2000 Electric Pencil Sharpeners,70.95,3,18.45
+07-14,Pauline Johnson,Alabama,Furniture,Furnishings,"Stacking Tray, Side-Loading, Legal, Smoke",8.96,2,2.78
+07-14,Roland Schwarz,South Carolina,Technology,Phones,AT&T TR1909W,629.95,5,163.79
+07-14,Valerie Mitchum,Georgia,Office Supplies,Paper,Xerox 226,58.32,9,27.99
+08-14,Jim Mitchum,Arizona,Office Supplies,Fasteners,Binder Clips by OIC,2.37,2,0.83
+08-14,Ruben Ausman,Alabama,Furniture,Tables,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",1215.92,8,316.14
+08-14,Pauline Chand,Arizona,Office Supplies,Fasteners,"Alliance Super-Size Bands, Assorted Sizes",49.79,8,-11.83
+08-14,John Stevenson,Ohio,Furniture,Tables,Riverside Furniture Stanwyck Manor Table Series,172.11,1,-94.66
+11-14,Jay Kimmel,Florida,Office Supplies,Fasteners,"Acco Banker's Clasps, 5 3/4""-Long",6.91,3,2.33
+11-14,Sanjit Engle,Idaho,Office Supplies,Binders,GBC Personal VeloBind Strips,9.58,1,3.35
+11-14,Gary Mitchum,Texas,Technology,Phones,Jawbone JAMBOX Wireless Bluetooth Speaker,758.35,6,265.42
+11-14,Michelle Moray,Montana,Office Supplies,Storage,Eldon Simplefile Box Office,87.08,7,24.38
+12-14,Kean Nguyen,California,Technology,Phones,Pyle PMP37LED,1075.09,14,94.07
+12-14,Stewart Visinsky,Indiana,Office Supplies,Paper,Xerox 213,32.4,5,15.55
+12-14,Edward Hooks,California,Office Supplies,Art,Prismacolor Color Pencil Set,39.68,2,16.27
+13-14,Ben Ferrer,Maryland,Office Supplies,Labels,Avery 479,7.83,3,3.6
+15-14,Paul Stevenson,California,Office Supplies,Appliances,Belkin F9G930V10-GRY 9 Outlet Surge,106.96,2,31.02
+16-14,Stephanie Phelps,North Carolina,Office Supplies,Art,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",39.07,6,9.77
+18-14,John Lee,California,Technology,Machines,Ativa MDM8000 8-Sheet Micro-Cut Shredder,287.97,4,97.19
+19-14,Nicole Fjeld,California,Furniture,Furnishings,"Executive Impressions 13"" Chairman Wall Clock",76.14,3,26.65
+19-14,Allen Goldenen,Virginia,Office Supplies,Binders,GBC Durable Plastic Covers,58.05,3,26.7
+20-14,Benjamin Patterson,California,Furniture,Furnishings,"GE 4 Foot Flourescent Tube, 40 Watt",59.92,4,27.56
+21-14,Allen Armold,California,Office Supplies,Binders,ACCOHIDE Binder by Acco,16.52,5,5.58
+21-14,Dorothy Badders,Kentucky,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",828.84,6,0
+22-14,Aaron Hawkins,New York,Office Supplies,Envelopes,Staple envelope,247.84,8,121.44
+23-14,Theresa Swint,Pennsylvania,Office Supplies,Binders,Wilson Jones Suede Grain Vinyl Binders,2.5,3,-1.75
+23-14,Laurel Beltran,Ohio,Furniture,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",281.37,2,-12.06
+25-14,Dianna Arnett,Texas,Office Supplies,Paper,Xerox 1985,10.37,2,3.63
+25-14,Lena Creighton,North Carolina,Technology,Phones,AT&T CL2909,302.38,3,37.8
+25-14,Beth Thompson,California,Furniture,Furnishings,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",303.25,5,63.68
+26-14,Aleksandra Gannaway,California,Furniture,Chairs,Bevis Steel Folding Chairs,230.28,3,23.03
+26-14,Marc Harrigan,California,Office Supplies,Art,Newell 347,21.4,5,6.21
+28-14,Muhammed Yedwab,Maryland,Office Supplies,Binders,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",20.86,2,9.39
+28-14,George Bell,Ohio,Office Supplies,Labels,Avery File Folder Labels,6.91,3,2.51
+28-14,Arianne Irving,California,Technology,Phones,Samsung Galaxy Mega 6.3,1679.96,5,126
+28-14,David Smith,New York,Technology,Accessories,Logitech G600 MMO Gaming Mouse,159.98,2,57.59
+29-14,Lauren Leatherbury,New York,Furniture,Furnishings,Dax Clear Box Frame,17.46,2,5.94
+29-14,Harry Greene,Louisiana,Furniture,Chairs,"Global Stack Chair without Arms, Black",51.96,2,12.99
+29-14,Laura Armstrong,Tennessee,Furniture,Chairs,Global Leather Executive Chair,561.58,2,70.2
+29-14,Katherine Hughes,Delaware,Technology,Phones,Square Credit Card Reader,19.98,2,5.19
+30-14,Justin MacKendrick,Kentucky,Office Supplies,Art,Hunt Boston Vacuum Mount KS Pencil Sharpener,174.95,5,45.49
+02-14,Andrew Roberts,Ohio,Office Supplies,Appliances,Belkin 6 Outlet Metallic Surge Strip,26.14,3,1.96
+02-14,Cari Schnelling,Florida,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,479.98,2,90
+03-14,Joni Sundaresam,Wisconsin,Office Supplies,Labels,Avery 481,21.56,7,10.35
+03-14,Nathan Cano,New York,Office Supplies,Binders,GBC Poly Designer Binding Covers,40.18,3,14.56
+04-14,Paul MacIntyre,Michigan,Office Supplies,Binders,Fellowes Binding Cases,46.8,4,21.06
+04-14,Andrew Allen,Connecticut,Furniture,Furnishings,DAX Wood Document Frame,27.46,2,9.89
+04-14,Bill Shonely,Washington,Furniture,Furnishings,"Eldon Regeneration Recycled Desk Accessories, Smoke",12.18,7,3.9
+05-14,Peter Fuller,Kentucky,Office Supplies,Paper,"Adams ""While You Were Out"" Message Pads",9.42,3,4.24
+05-14,Emily Burns,Texas,Furniture,Chairs,"Global Value Mid-Back Manager's Chair, Gray",127.87,3,-9.13
+05-14,Giulietta Dortch,Virginia,Office Supplies,Binders,Storex Dura Pro Binders,11.88,2,5.35
+06-14,Harold Pawlan,California,Office Supplies,Binders,Wilson Jones Legal Size Ring Binders,140.74,8,52.78
+06-14,Steve Nguyen,California,Office Supplies,Labels,Staple-on labels,5.78,2,2.72
+07-14,Carol Triggs,Massachusetts,Office Supplies,Binders,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",16.14,3,7.91
+09-14,Patrick Gardner,California,Technology,Accessories,Kingston Digital DataTraveler 32GB USB 2.0,67.8,4,4.07
+09-14,Sean Braxton,Kentucky,Office Supplies,Storage,Fellowes Super Stor/Drawer,83.25,3,14.99
+10-14,Art Foster,Pennsylvania,Furniture,Bookcases,Bestar Classic Bookcase,349.97,7,-216.98
+10-14,Greg Matthias,California,Office Supplies,Paper,Southworth 25% Cotton Premium Laser Paper and Envelopes,39.96,2,19.18
+11-14,Paul Gonzalez,Texas,Technology,Accessories,SanDisk Cruzer 64 GB USB Flash Drive,58.11,2,7.26
+11-14,Raymond Messe,Texas,Technology,Accessories,Logitech ClearChat Comfort/USB Headset H390,46.86,2,7.62
+11-14,Brooke Gillingham,New York,Office Supplies,Appliances,Staple holder,35.91,3,9.7
+11-14,Victoria Wilson,Texas,Furniture,Chairs,Hon Multipurpose Stacking Arm Chairs,1212.96,8,-69.31
+11-14,Harold Dahlen,Illinois,Office Supplies,Paper,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",17.47,3,5.68
+13-14,Alejandro Grove,Utah,Office Supplies,Storage,Fellowes Super Stor/Drawer,55.5,2,9.99
+13-14,Erica Hernandez,Florida,Office Supplies,Fasteners,Staples,7.1,2,2.4
+13-14,Naresj Patel,California,Technology,Accessories,Plantronics Audio 478 Stereo USB Headset,149.97,3,52.49
+14-14,Anthony Johnson,Florida,Furniture,Furnishings,Electrix Halogen Magnifier Lamp,310.88,2,23.32
+16-14,Pauline Webber,California,Furniture,Chairs,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",232.88,5,17.47
+16-14,Cindy Chapman,California,Technology,Accessories,Imation Clip USB flash drive - 8 GB,56.4,3,3.38
+17-14,Pete Armstrong,Wisconsin,Office Supplies,Binders,Surelock Post Binders,91.68,3,45.84
+18-14,Bruce Stewart,Ohio,Technology,Phones,Apple iPhone 5,779.8,2,-168.96
+18-14,Ted Trevino,Ohio,Furniture,Furnishings,Deflect-o Glass Clear Studded Chair Mats,149.23,3,3.73
+18-14,George Ashbrook,Texas,Office Supplies,Paper,Xerox 1949,3.98,1,1.44
+19-14,John Huston,Michigan,Office Supplies,Binders,Avery Heavy-Duty EZD View Binder with Locking Rings,57.42,9,26.41
+19-14,Tamara Dahlen,Virginia,Office Supplies,Supplies,Acme Design Stainless Steel Bent Scissors,34.2,5,9.23
+20-14,Randy Ferguson,New Hampshire,Office Supplies,Appliances,Acco 6 Outlet Guardian Basic Surge Suppressor,33.28,4,9.32
+20-14,Matt Collister,Texas,Furniture,Furnishings,Contemporary Borderless Frame,10.33,3,-5.94
+21-14,Mitch Willingham,Virginia,Office Supplies,Binders,Fellowes PB300 Plastic Comb Binding Machine,2715.93,7,1276.49
+21-14,Bradley Talbott,California,Office Supplies,Art,4009 Highlighters by Sanford,31.84,8,10.51
+21-14,Frank Gastineau,Massachusetts,Office Supplies,Binders,GBC ProClick Punch Binding System,447.86,7,219.45
+22-14,Evan Henry,Alabama,Technology,Phones,Nortel Networks T7316 E Nt8 B27,135.98,2,34
+23-14,Greg Tran,New York,Office Supplies,Binders,Avery Non-Stick Binders,17.96,5,5.84
+24-14,Resi Pölking,Maryland,Office Supplies,Paper,Xerox 1944,116.28,3,56.98
+25-14,Janet Lee,Illinois,Office Supplies,Appliances,Harmony Air Purifier,75.6,2,-166.32
+25-14,Barry Weirich,New York,Office Supplies,Paper,Strathmore Photo Frame Cards,14.62,2,6.73
+26-14,Herbert Flentye,California,Furniture,Chairs,Hon Olson Stacker Stools,225.3,2,22.53
+26-14,Dean percer,Utah,Office Supplies,Paper,"Wirebound Service Call Books, 5 1/2"" x 4""",48.4,5,23.23
+27-14,Maya Herman,California,Furniture,Tables,KI Conference Tables,567.12,10,-28.36
+27-14,Laurel Elliston,Illinois,Office Supplies,Binders,Fellowes Presentation Covers for Comb Binding Machines,17.46,6,-30.56
+28-14,Patrick Jones,Washington,Technology,Phones,I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,57.41,6,5.74
+28-14,Magdelene Morse,Washington,Office Supplies,Binders,"Green Canvas Binder for 8-1/2"" x 14"" Sheets",136.96,4,51.36
+30-14,Ellis Ballard,Virginia,Office Supplies,Paper,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",13.62,3,6.13
+30-14,Shahid Shariari,Illinois,Furniture,Tables,Chromcraft Rectangular Conference Tables,355.46,3,-184.84
+30-14,James Galang,New York,Office Supplies,Binders,Wilson Jones Legal Size Ring Binders,70.37,4,26.39
+30-14,Laurel Workman,New York,Office Supplies,Binders,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",25.58,2,8.95
+30-14,Mark Cousins,Illinois,Technology,Copiers,Brother DCP1000 Digital 3 in 1 Multifunction Machine,719.98,3,135
+31-14,Jim Karlsson,Mississippi,Technology,Phones,Samsung Galaxy Note 3,659.97,3,197.99
+01-14,Dianna Wilson,Minnesota,Furniture,Chairs,Global Deluxe High-Back Manager's Chair,2001.86,7,580.54
+01-14,Corey Roper,New Jersey,Office Supplies,Binders,"GBC Clear Cover, 8-1/2 x 11, unpunched, 25 covers per pack",45.48,3,20.92
+01-14,Liz Thompson,Arkansas,Furniture,Furnishings,3M Hangers With Command Adhesive,22.2,6,9.1
+03-14,Steven Cartwright,Washington,Furniture,Tables,KI Adjustable-Height Table,515.88,6,113.49
+03-14,Ross Baird,Michigan,Office Supplies,Envelopes,Security-Tint Envelopes,15.28,2,7.49
+03-14,Richard Eichhorn,Illinois,Office Supplies,Labels,Avery 513,15.94,4,5.18
+04-14,Bobby Trafton,New York,Furniture,Furnishings,"Seth Thomas 14"" Day/Date Wall Clock",56.96,2,21.08
+06-14,Bryan Mills,New York,Office Supplies,Art,Sanford Liquid Accent Highlighters,13.36,2,4.94
+06-14,Grant Thornton,New York,Office Supplies,Binders,Wilson Jones Century Plastic Molded Ring Binders,149.54,9,50.47
+06-14,Sarah Bern,Illinois,Office Supplies,Binders,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",24.59,3,-38.11
+06-14,Valerie Takahito,Texas,Office Supplies,Labels,Round Specialty Laser Printer Labels,100.24,10,33.83
+07-14,Bart Pistole,Illinois,Office Supplies,Binders,Wilson Jones Century Plastic Molded Ring Binders,12.46,3,-20.56
+07-14,Nick Radford,Illinois,Furniture,Tables,"Bevis Round Conference Table Top, X-Base",268.94,3,-209.77
+08-14,Carlos Soltero,Washington,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",585.55,3,73.19
+08-14,Rick Duston,New York,Office Supplies,Binders,"Green Canvas Binder for 8-1/2"" x 14"" Sheets",68.48,2,25.68
+09-14,Brosina Hoffman,California,Furniture,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",48.86,7,14.17
+09-14,Carl Weiss,Texas,Technology,Phones,Square Credit Card Reader,7.99,1,0.6
+09-14,Chuck Magee,California,Office Supplies,Supplies,Staple remover,7.36,2,0.15
+09-14,Frank Olsen,Virginia,Furniture,Tables,Bevis 44 x 96 Conference Tables,1441.3,7,245.02
+10-14,Heather Kirkland,Michigan,Office Supplies,Labels,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",491.55,5,240.86
+14-14,Sharelle Roach,Michigan,Furniture,Bookcases,"Hon Metal Bookcases, Gray",212.94,3,57.49
+15-14,Kelly Lampkin,Texas,Furniture,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",99.92,2,-18.56
+15-14,Pamela Stobb,Texas,Office Supplies,Paper,Xerox 1902,36.54,2,11.88
+16-14,Sonia Cooley,Indiana,Furniture,Chairs,"Global Geo Office Task Chair, Gray",647.84,8,32.39
+17-14,Duane Benoit,Delaware,Technology,Machines,Texas Instruments TI-34 Scientific Calculator,65.97,3,31.01
+17-14,Gary Hwang,Washington,Furniture,Furnishings,Eldon Wave Desk Accessories,6.24,3,2.62
+17-14,Jennifer Ferguson,Illinois,Office Supplies,Paper,Xerox 1892,62.02,2,22.48
+18-14,Mick Crebagga,California,Technology,Phones,Plantronics Cordless Phone Headset with In-line Volume - M214C,139.8,5,12.23
+20-14,Corey-Lock,Oklahoma,Office Supplies,Appliances,Honeywell Quietcare HEPA Air Cleaner,471.9,6,155.73
+21-14,Natalie Webber,Pennsylvania,Office Supplies,Envelopes,Staple envelope,24.9,4,8.4
+21-14,Toby Braunhardt,New York,Office Supplies,Paper,"Message Book, Phone, Wirebound Standard Line Memo, 2 3/4"" X 5""",19.65,3,9.04
+22-14,Joel Eaton,Colorado,Technology,Accessories,KeyTronic 6101 Series - Keyboard - Black,196.75,6,56.57
+22-14,Dianna Vittorini,Minnesota,Office Supplies,Storage,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,501.81,3,0
+22-14,Anna Andreadi,Pennsylvania,Furniture,Chairs,"Padded Folding Chairs, Black, 4/Carton",170.06,3,-4.86
+23-14,Brian Stugart,Pennsylvania,Technology,Accessories,Sony 64GB Class 10 Micro SDHC R40 Memory Card,86.38,3,1.08
+23-14,Denise Leinenbach,North Carolina,Office Supplies,Art,Prang Drawing Pencil Set,20.02,9,1.75
+24-14,Liz Pelletier,Arizona,Furniture,Furnishings,Acrylic Self-Standing Desk Frames,4.27,2,0.96
+25-14,Noel Staavos,California,Furniture,Tables,Hon 4060 Series Tables,447.84,5,11.2
+25-14,Grace Kelly,Oregon,Technology,Phones,Plantronics 81402,263.96,5,19.8
+27-14,Liz MacKendrick,Mississippi,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, 72h",306.2,5,0
+28-14,Cynthia Arntzen,Pennsylvania,Office Supplies,Paper,Xerox 1995,41.47,8,14.52
+28-14,Rob Williams,Michigan,Office Supplies,Fasteners,Staples,6.08,1,3.04
+29-14,Dan Lawera,Ohio,Office Supplies,Art,"Dixon My First Ticonderoga Pencil, #2",32.76,7,3.69
+30-14,Helen Abelman,New York,Office Supplies,Binders,GBC Recycled Regency Composition Covers,334.77,7,108.8
+30-14,Russell Applegate,Illinois,Office Supplies,Art,BIC Brite Liner Grip Highlighters,5.25,4,1.64
+30-14,Anthony Rawles,California,Office Supplies,Art,"BIC Brite Liner Highlighters, Chisel Tip",32.4,5,10.37
+30-14,Michael Stewart,Texas,Office Supplies,Paper,Xerox 225,25.92,5,9.07
+30-14,Brian DeCherney,North Carolina,Office Supplies,Paper,Xerox 1913,310.69,7,108.74
+02-14,Eric Hoffmann,New Jersey,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",73.98,2,19.97
+04-14,Maxwell Schwartz,Virginia,Office Supplies,Paper,Southworth Structures Collection,21.84,3,10.92
+05-14,Michael Chen,Mississippi,Technology,Accessories,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,479.97,3,163.19
+05-14,Dan Campbell,Texas,Office Supplies,Storage,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",220.78,3,-44.16
+05-14,Dennis Pardue,California,Office Supplies,Binders,Vinyl Sectional Post Binders,180.96,6,67.86
+05-14,Don Miller,Florida,Furniture,Furnishings,Advantus Panel Wall Certificate Holder - 8.5x11,19.52,2,5.37
+06-14,Emily Phan,New York,Technology,Copiers,Canon Imageclass D680 Copier / Fax,559.99,1,175
+06-14,Becky Castell,California,Furniture,Chairs,Global Comet Stacking Armless Chair,478.48,2,47.85
+08-14,Michelle Huthwaite,New York,Furniture,Chairs,"Situations Contoured Folding Chairs, 4/Set",63.88,1,10.65
+08-14,Ed Braxton,California,Furniture,Tables,Hon 2111 Invitation Series Corner Table,502.49,3,-87.94
+09-14,Brian Moss,Texas,Office Supplies,Paper,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",10.37,2,3.63
+09-14,Gary Hansen,California,Office Supplies,Labels,Avery 49,2.88,1,1.41
+09-14,Darrin Sayre,California,Office Supplies,Binders,Avery Hidden Tab Dividers for Binding Systems,14.3,6,4.65
+11-14,Mark Hamilton,New York,Office Supplies,Paper,Xerox 1881,49.12,4,23.09
+11-14,Jamie Kunitz,New York,Technology,Phones,Cisco SPA112 2 Port Phone Adapter,164.85,3,47.81
+12-14,Alyssa Crouse,California,Office Supplies,Binders,Tuff Stuff Recycled Round Ring Binders,7.71,2,2.8
+12-14,Max Engle,Illinois,Office Supplies,Paper,Xerox 1949,35.86,9,13
+12-14,Paul Van Hugh,Texas,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,512.36,3,-14.64
+14-14,Arthur Wiediger,Illinois,Office Supplies,Binders,Acco D-Ring Binder w/DublLock,29.93,7,-46.39
+14-14,Philip Brown,Arizona,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,55.92,5,6.29
+14-14,Shirley Schmidt,Delaware,Office Supplies,Appliances,Belkin 7 Outlet SurgeMaster II,39.48,1,11.05
+14-14,Barbara Fisher,New York,Office Supplies,Art,Newell 315,17.94,3,4.49
+18-14,Adrian Hane,Arizona,Furniture,Chairs,Office Star - Ergonomically Designed Knee Chair,259.14,4,-25.91
+18-14,Jack Lebron,New York,Office Supplies,Binders,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",13.9,2,4.52
+19-14,Christine Abelman,Connecticut,Technology,Phones,Polycom VVX 310 VoIP phone,359.98,2,93.59
+19-14,Eugene Moren,Montana,Office Supplies,Binders,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",6.1,2,2.21
+20-14,Katherine Murray,Texas,Office Supplies,Storage,Letter Size Cart,342.86,3,38.57
+20-14,Scot Wooten,Ohio,Office Supplies,Storage,Fellowes Neat Ideas Storage Cubes,25.98,1,-5.2
+20-14,Charles Crestani,California,Office Supplies,Paper,Xerox 189,104.85,1,50.33
+20-14,Roger Demir,California,Office Supplies,Binders,Clear Mylar Reinforcing Strips,89.71,6,30.28
+21-14,Michelle Ellison,California,Office Supplies,Art,Newell 334,99.2,5,25.79
+21-14,Harry Marie,Texas,Office Supplies,Appliances,Acco 6 Outlet Guardian Basic Surge Suppressor,4.99,3,-12.98
+22-14,Erin Mull,New York,Office Supplies,Art,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",5.96,2,1.67
+22-14,Alejandro Ballentine,California,Office Supplies,Art,Crayola Colored Pencils,19.68,6,6.49
+22-14,John Lucas,Texas,Office Supplies,Storage,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,26.63,1,1.33
+23-14,Arthur Gainer,Arizona,Office Supplies,Binders,Wilson Jones Custom Binder Spines & Labels,8.16,5,-5.71
+23-14,Nick Crebassa,California,Technology,Phones,VTech DS6151,604.75,6,60.48
+25-14,Ken Lonsdale,California,Office Supplies,Storage,"Fellowes Personal Hanging Folder Files, Navy",53.72,4,15.04
+26-14,Carl Ludwig,Illinois,Office Supplies,Storage,"Belkin 19"" Vented Equipment Shelf, Black",123.55,3,-29.34
+26-14,Sheri Gordon,Georgia,Furniture,Chairs,"Metal Folding Chairs, Beige, 4/Carton",67.88,2,18.33
+26-14,Luke Foster,Texas,Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,2177.58,8,-3701.89
+27-14,Aaron Smayling,New York,Office Supplies,Paper,Xerox 1956,65.78,11,32.23
+27-14,Barry Blumstein,California,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",276.28,2,0
+30-14,Tom Stivers,Washington,Furniture,Bookcases,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",1367.84,8,259.89
+01-14,Ivan Liston,California,Office Supplies,Binders,Wilson Jones data.warehouse D-Ring Binders with DublLock,19.75,3,6.91
+01-14,Ann Steele,Pennsylvania,Office Supplies,Fasteners,"Acco Clips to Go Binder Clips, 24 Clips in Two Sizes",5.68,2,1.92
+02-14,Nick Zandusky,Missouri,Office Supplies,Binders,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,26.7,5,12.55
+03-14,Berenike Kampe,New York,Office Supplies,Paper,Xerox 1884,39.96,2,18.78
+04-14,Valerie Dominguez,Utah,Office Supplies,Appliances,Hoover WindTunnel Plus Canister Vacuum,1089.75,3,305.13
+05-14,Chad Sievert,California,Office Supplies,Paper,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6 x 11",20.94,3,9.84
+05-14,Sonia Sunley,California,Technology,Accessories,Logitech Desktop MK120 Mouse and keyboard Combo,16.36,1,1.64
+05-14,Ricardo Sperren,Connecticut,Office Supplies,Appliances,Fellowes Advanced Computer Series Surge Protectors,79.47,3,22.25
+05-14,Gary Zandusky,Texas,Furniture,Tables,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",489.23,2,41.93
+06-14,Roland Fjeld,South Carolina,Technology,Accessories,"Maxell 74 Minute CD-R Spindle, 50/Pack",62.91,3,22.65
+06-14,Trudy Brown,New York,Technology,Accessories,Logitech G700s Rechargeable Gaming Mouse,199.98,2,83.99
+08-14,Lena Radford,California,Office Supplies,Appliances,Fellowes Superior 10 Outlet Split Surge Protector,76.12,2,22.07
+08-14,Maria Bertelson,Arizona,Furniture,Furnishings,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",121.38,4,-3.03
+08-14,Matt Abelman,Michigan,Technology,Copiers,Sharp 1540cs Digital Laser Copier,549.99,1,275
+08-14,Vivek Gonzalez,Florida,Furniture,Bookcases,O'Sullivan 2-Shelf Heavy-Duty Bookcases,155.46,4,-7.77
+09-14,Andy Gerbode,Florida,Technology,Phones,AT&T 1070 Corded Phone,178.38,2,22.3
+09-14,Emily Ducich,California,Office Supplies,Labels,Avery 494,20.88,8,9.6
+09-14,Matthew Grinstein,Washington,Technology,Phones,Cisco Unified IP Phone 7945G VoIP phone,1091.17,4,68.2
+09-14,Joseph Holt,Washington,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,2060.74,7,643.98
+09-14,Gene McClure,California,Office Supplies,Paper,Great White Multi-Use Recycled Paper (20Lb. and 84 Bright),5.98,1,2.69
+12-14,Charles Sheldon,New Jersey,Office Supplies,Binders,"Performers Binder/Pad Holder, Black",196.21,7,98.11
+12-14,Ben Wallace,California,Technology,Phones,BlackBerry Q10,806.34,8,50.4
+12-14,Duane Huffman,Florida,Office Supplies,Paper,Xerox 229,31.1,6,10.89
+15-14,Keith Herrera,Texas,Office Supplies,Binders,GBC Durable Plastic Covers,30.96,8,-52.63
+15-14,Christine Sundaresam,Connecticut,Office Supplies,Binders,Premium Transparent Presentation Covers by GBC,62.94,3,30.21
+16-14,Troy Staebel,Pennsylvania,Furniture,Tables,Chromcraft Rectangular Conference Tables,853.09,6,-227.49
+17-14,Don Jones,Arkansas,Office Supplies,Paper,Xerox 1929,114.2,5,52.53
+19-14,Lena Hernandez,Arkansas,Furniture,Bookcases,"Hon Metal Bookcases, Gray",638.82,9,172.48
+20-14,Craig Reiter,Illinois,Furniture,Chairs,"Global Leather and Oak Executive Chair, Black",421.37,2,-6.02
+22-14,Deanra Eno,Ohio,Office Supplies,Art,Faber Castell Col-Erase Pencils,3.91,1,1.03
+22-14,Jeremy Pistek,Florida,Office Supplies,Supplies,Acme Serrated Blade Letter Opener,7.63,3,-1.81
+23-14,Rick Hansen,New York,Office Supplies,Paper,Xerox 1994,25.92,4,12.44
+23-14,Robert Barroso,California,Office Supplies,Binders,GBC Linen Binding Covers,49.57,2,17.35
+23-14,Arthur Prichep,Colorado,Office Supplies,Paper,Xerox 1976,15.55,3,5.44
+24-14,Jennifer Patt,New York,Furniture,Furnishings,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,13.28,2,6.37
+24-14,Dorothy Wardle,Kentucky,Office Supplies,Supplies,Acme Titanium Bonded Scissors,25.5,3,6.63
+25-14,Ryan Crowe,Ohio,Office Supplies,Fasteners,"OIC Colored Binder Clips, Assorted Sizes",40.1,14,14.53
+25-14,Janet Molinari,California,Furniture,Furnishings,"Eldon 200 Class Desk Accessories, Smoke",6.28,1,2.64
+25-14,Mitch Webber,Washington,Technology,Phones,Polycom VVX 310 VoIP phone,1007.94,7,75.6
+25-14,Joe Elijah,Texas,Office Supplies,Binders,"Wilson Jones Elliptical Ring 3 1/2"" Capacity Binders, 800 sheets",25.68,3,-39.8
+26-14,Frank Merwin,California,Technology,Accessories,SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card,176.8,8,22.98
+26-14,Karl Braun,Delaware,Furniture,Furnishings,Acrylic Self-Standing Desk Frames,10.68,4,4.06
+26-14,Paul Prost,Delaware,Office Supplies,Art,Newell 340,8.64,3,2.51
+27-14,Zuschuss Donatelli,California,Office Supplies,Art,Newell 341,8.56,2,2.48
+27-14,Corey Catlett,Virginia,Technology,Phones,GE 30522EE2,579.95,5,168.19
+29-14,Hilary Holden,California,Office Supplies,Paper,Xerox 1940,109.92,2,53.86
+29-14,Ryan Akin,Florida,Office Supplies,Envelopes,Jiffy Padded Mailers with Self-Seal Closure,29.81,2,10.81
+30-14,Annie Thurman,Connecticut,Office Supplies,Binders,Wilson Jones Standard D-Ring Binders,25.3,5,11.89
+31-14,Shirley Jackson,New Mexico,Technology,Accessories,KeyTronic KT400U2 - Keyboard - Black,92.52,9,18.5
+01-14,Larry Tron,California,Office Supplies,Art,"BOSTON Model 1800 Electric Pencil Sharpeners, Putty/Woodgrain",53.94,3,15.64
+02-14,Katherine Ducich,New York,Office Supplies,Art,Newell 324,57.75,5,16.17
+03-14,Mathew Reese,Texas,Office Supplies,Binders,GBC VeloBinder Strips,7.68,5,-11.52
+05-14,Nora Preis,Ohio,Office Supplies,Storage,Economy Rollaway Files,264.32,2,19.82
+05-14,Patrick Ryan,Florida,Furniture,Furnishings,Telescoping Adjustable Floor Lamp,31.98,2,2
+06-14,Victoria Pisteka,California,Furniture,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",41.88,6,12.15
+07-14,Dennis Kane,New York,Technology,Phones,AT&T EL51110 DECT,377.97,3,109.61
+07-14,Sam Zeldin,Texas,Technology,Phones,Panasonic KX TS3282B Corded phone,196.78,3,14.76
+07-14,Lisa Ryan,California,Office Supplies,Supplies,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",27.36,4,7.39
+08-14,Becky Martin,Texas,Office Supplies,Art,BIC Brite Liner Highlighters,9.94,3,2.73
+08-14,Lisa Hazard,Texas,Office Supplies,Binders,GBC ProClick Punch Binding System,51.18,4,-79.34
+08-14,Karen Carlisle,Georgia,Technology,Accessories,Memorex Froggy Flash Drive 4 GB,32.97,3,12.86
+08-14,Stefania Perrino,New York,Office Supplies,Appliances,Black & Decker Filter for Double Action Dustbuster Cordless Vac BLDV7210,16.78,2,4.2
+08-14,Marc Crier,Washington,Office Supplies,Art,Prang Colored Pencils,5.88,2,2.65
+08-14,Kean Takahito,Texas,Office Supplies,Paper,"Geographics Note Cards, Blank, White, 8 1/2"" x 11""",17.9,2,6.27
+09-14,Maribeth Schnelling,Michigan,Office Supplies,Labels,Alphabetical Labels for Top Tab Filing,103.6,7,51.8
+09-14,Rick Reed,Massachusetts,Office Supplies,Paper,Xerox 1913,166.44,3,79.89
+09-14,Logan Currie,Pennsylvania,Office Supplies,Paper,Xerox 210,15.55,3,5.44
+09-14,Daniel Lacy,North Carolina,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, White",1299.99,2,-572
+09-14,Chris Cortes,Illinois,Office Supplies,Paper,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",10.9,3,3.41
+10-14,Sandra Flanagan,New Jersey,Office Supplies,Appliances,Kensington 6 Outlet Guardian Standard Surge Protector,81.92,4,22.12
+11-14,Liz Willingham,California,Furniture,Furnishings,"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",127.95,3,21.75
+12-14,Brad Norvell,North Carolina,Office Supplies,Paper,Xerox 220,10.37,2,3.63
+12-14,Pete Takahito,Texas,Office Supplies,Binders,Wilson Jones Impact Binders,5.18,5,-8.03
+12-14,Tom Ashbrook,Kansas,Office Supplies,Supplies,Compact Automatic Electric Letter Opener,357.93,3,7.16
+12-14,Luke Weiss,New York,Furniture,Chairs,HON 5400 Series Task Chairs for Big and Tall,3785.29,6,420.59
+13-14,Erin Ashbrook,North Carolina,Office Supplies,Binders,GBC Instant Index System for Binding Systems,18.65,7,-12.43
+13-14,Jessica Myrick,Pennsylvania,Office Supplies,Paper,Xerox 1985,15.55,3,5.44
+13-14,Odella Nelson,Arizona,Office Supplies,Storage,Eldon File Chest Portable File,79.4,5,5.96
+14-14,Jennifer Braxton,Illinois,Office Supplies,Appliances,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,52.45,2,-131.12
+14-14,Astrea Jones,New York,Office Supplies,Storage,Fellowes Officeware Wire Shelving,449.15,5,8.98
+14-14,John Castell,Georgia,Furniture,Furnishings,"Seth Thomas 14"" Day/Date Wall Clock",142.4,5,52.69
+14-14,Darrin Martin,New York,Furniture,Tables,KI Adjustable-Height Table,464.29,9,-108.33
+15-14,Monica Federle,Pennsylvania,Furniture,Furnishings,"Seth Thomas 16"" Steel Case Clock",103.94,4,16.89
+17-14,Anthony Garverick,Pennsylvania,Office Supplies,Binders,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",5.89,4,-4.12
+17-14,Joseph Airdo,Oregon,Office Supplies,Art,Newell 313,5.25,2,0.46
+19-14,Frank Atkinson,California,Office Supplies,Fasteners,OIC Binder Clips,7.16,2,3.58
+19-14,Mike Caudle,Washington,Office Supplies,Storage,"Decoflex Hanging Personal Folder File, Blue",92.52,6,24.98
+19-14,Jim Kriz,California,Office Supplies,Fasteners,Revere Boxed Rubber Bands by Revere,5.67,3,0.11
+20-14,Philip Fox,Illinois,Furniture,Tables,Bevis 44 x 96 Conference Tables,617.7,6,-407.68
+20-14,Erica Smith,California,Office Supplies,Labels,Avery 499,9.96,2,4.58
+20-14,Michelle Arnett,California,Office Supplies,Appliances,Staple holder,43.92,4,11.86
+20-14,Duane Noonan,Maryland,Furniture,Furnishings,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",164.22,3,50.91
+20-14,Sarah Brown,Illinois,Furniture,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",493.43,5,-70.49
+20-14,Henry Goldwyn,California,Office Supplies,Paper,Xerox 1900,8.56,2,3.85
+21-14,Jack Garza,Washington,Technology,Phones,Nortel Meridian M3904 Professional Digital phone,246.38,2,27.72
+21-14,Larry Hughes,Pennsylvania,Office Supplies,Binders,"Angle-D Binders with Locking Rings, Label Holders",6.57,3,-5.04
+21-14,Sara Luxemburg,New York,Office Supplies,Art,Boston 16801 Nautilus Battery Pencil Sharpener,66.03,3,17.17
+22-14,Vivek Grady,Illinois,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",331.54,3,-82.88
+22-14,Adam Shillingsburg,New York,Furniture,Furnishings,"Computer Room Manger, 14""",97.44,3,35.08
+23-14,Thea Hudgings,Delaware,Office Supplies,Binders,Wilson Jones Suede Grain Vinyl Binders,11.12,4,5.45
+23-14,Julie Prescott,New York,Office Supplies,Binders,Avery Binding System Hidden Tab Executive Style Index Sets,18.46,4,6.92
+23-14,Thomas Thornton,Delaware,Office Supplies,Art,Newell 351,9.84,3,2.85
+24-14,Julia Dunbar,California,Office Supplies,Storage,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",211.96,4,8.48
+25-14,Michelle Tran,Texas,Office Supplies,Paper,Xerox 1954,33.79,8,10.56
+25-14,Barry Franz,Colorado,Office Supplies,Art,Dixon Ticonderoga Core-Lock Colored Pencils,14.58,2,2.37
+26-14,Nicole Brennan,Pennsylvania,Office Supplies,Appliances,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,143.95,3,14.4
+26-14,Christopher Schild,Washington,Office Supplies,Storage,"Dual Level, Single-Width Filing Carts",310.12,2,80.63
+26-14,Karen Ferguson,California,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",585.55,3,73.19
+27-14,Thea Hendricks,California,Furniture,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,603.92,5,45.29
+28-14,George Zrebassa,Massachusetts,Office Supplies,Storage,"Decoflex Hanging Personal Folder File, Blue",46.26,3,12.49
+28-14,Keith Dawkins,North Carolina,Office Supplies,Paper,White GlueTop Scratch Pads,96.26,8,31.28
+29-14,Suzanne McNair,Pennsylvania,Office Supplies,Art,Nontoxic Chalk,4.22,3,1.48
+29-14,Lisa DeCherney,New York,Office Supplies,Storage,"Dual Level, Single-Width Filing Carts",1395.54,9,362.84
+29-14,Evan Bailliet,Washington,Office Supplies,Binders,GBC Standard Plastic Binding Systems' Combs,10.05,2,3.14
+30-14,Kelly Williams,Tennessee,Office Supplies,Appliances,Holmes Odor Grabber,69.22,6,11.25
+30-14,Doug Bickford,Washington,Office Supplies,Binders,DXL Angle-View Binders with Locking Rings by Samsill,43.18,7,13.49
+30-14,Dario Medina,Ohio,Office Supplies,Appliances,Eureka Sanitaire  Commercial Upright,795.41,6,59.66
+02-14,Erin Smith,Arizona,Office Supplies,Paper,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",9.41,2,3.41
+03-14,Beth Paige,Illinois,Furniture,Chairs,"Global High-Back Leather Tilter, Burgundy",258.28,3,-70.1
+03-14,Allen Rosenblatt,California,Furniture,Tables,Bevis Round Conference Room Tables and Bases,143.43,1,3.59
+03-14,Denny Ordway,Ohio,Office Supplies,Art,Hunt Boston Vacuum Mount KS Pencil Sharpener,55.98,2,4.2
+03-14,Russell D'Ascenzo,Texas,Office Supplies,Fasteners,Colored Push Pins,4.34,3,0.87
+04-14,David Flashing,California,Office Supplies,Labels,Avery 512,14.45,5,6.79
+04-14,Joy Daniels,Washington,Office Supplies,Labels,Avery 519,29.24,4,13.74
+05-14,Brian Derr,Ohio,Office Supplies,Appliances,Belkin F5C206VTEL 6 Outlet Surge,91.92,5,11.49
+06-14,Alice McCarthy,Nebraska,Office Supplies,Binders,GBC VeloBinder Strips,15.36,2,7.68
+10-14,Tanja Norvell,California,Furniture,Chairs,"Global Deluxe Stacking Chair, Gray",122.35,3,13.76
+10-14,Fred Chung,New Mexico,Office Supplies,Art,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",255.85,7,112.57
+11-14,Jill Fjeld,Pennsylvania,Office Supplies,Storage,Fellowes High-Stak Drawer Files,281.9,2,10.57
+11-14,Helen Andreada,California,Office Supplies,Storage,Iris Project Case,31.92,4,8.3
+12-14,Barry Pond,Illinois,Office Supplies,Supplies,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",22.24,2,2.5
+13-14,Zuschuss Carroll,Washington,Office Supplies,Art,Newell 32,11.52,4,3.23
+13-14,Sibella Parks,New York,Office Supplies,Binders,Recycled Pressboard Report Cover with Reinforced Top Hinge,7.75,3,2.81
+14-14,Jim Epp,New Hampshire,Office Supplies,Binders,Avery Metallic Poly Binders,22.92,4,11
+14-14,Hunter Glantz,Texas,Office Supplies,Appliances,"Hoover Replacement Belts For Soft Guard & Commercial Ltweight Upright Vacs, 2/Pk",3.16,4,-8.53
+14-14,Toby Carlisle,Massachusetts,Technology,Accessories,WD My Passport Ultra 500GB Portable External Hard Drive,177,3,30.09
+15-14,Anna Chung,Ohio,Furniture,Chairs,Global Italian Leather Office Chair,183.37,2,-7.86
+16-14,Lynn Smith,California,Office Supplies,Binders,Avery Non-Stick Heavy Duty View Round Locking Ring Binders,14.35,3,5.02
+17-14,Tracy Blumstein,Texas,Office Supplies,Binders,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",10.78,5,-17.25
+18-14,Alan Schoenberger,Alabama,Office Supplies,Storage,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",275.97,3,11.04
+18-14,Luke Schmidt,Arkansas,Furniture,Chairs,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,605.34,6,145.28
+18-14,Ivan Gibson,Washington,Office Supplies,Paper,Xerox 1925,61.96,2,27.88
+19-14,Jeremy Farry,California,Office Supplies,Paper,Spiral Phone Message Books with Labels by Adams,13.44,3,6.59
+19-14,Rachel Payne,California,Office Supplies,Binders,Accohide Poly Flexible Ring Binders,2.99,1,1.12
+19-14,Eugene Hildebrand,California,Technology,Phones,RCA Visys Integrated PBX 8-Line Router,321.55,6,20.1
+20-14,Fred Hopkins,Tennessee,Furniture,Tables,"Lesro Round Back Collection Coffee Table, End Table",328.59,3,-147.87
+20-14,Lindsay Shagiari,Illinois,Technology,Accessories,Logitech Wireless Performance Mouse MX for PC and Mac,319.97,4,71.99
+21-14,Sylvia Foulston,California,Office Supplies,Binders,Plastic Binding Combs,36.36,3,12.27
+22-14,Maureen Gastineau,Ohio,Furniture,Furnishings,"Seth Thomas 14"" Putty-Colored Wall Clock",93.89,4,12.91
+24-14,Daniel Byrd,Florida,Office Supplies,Paper,Xerox 210,10.37,2,3.63
+26-14,Angele Hood,Washington,Furniture,Furnishings,Tenex Chairmats For Use With Carpeted Floors,63.92,4,3.2
+27-14,Ross DeVincentis,North Carolina,Office Supplies,Paper,Xerox 2,10.37,2,3.63
+28-14,Todd Sumrall,California,Office Supplies,Binders,Avery Non-Stick Binders,7.18,2,2.25
+28-14,Bill Tyler,Kansas,Technology,Phones,Digium D40 VoIP phone,257.98,2,74.81
+29-14,Noah Childs,Indiana,Technology,Accessories,Maxell 4.7GB DVD+R 5/Pack,1.98,2,0.89
+31-14,Greg Guthrie,California,Office Supplies,Fasteners,Staples,11.34,3,5.22
+31-14,Anne McFarland,Rhode Island,Office Supplies,Art,Lumber Crayons,49.25,5,18.72
+31-14,Amy Cox,Arizona,Technology,Phones,Plantronics HL10 Handset Lifter,742.34,8,83.51
+31-14,Nancy Lomonaco,California,Technology,Phones,Motorola L804,73.58,2,8.28
+01-14,Ken Heidel,North Carolina,Office Supplies,Fasteners,Staples,7.52,5,1.41
+01-14,Paul Lucas,California,Office Supplies,Labels,Avery 475,44.4,3,22.2
+01-14,Deirdre Greer,New Jersey,Office Supplies,Appliances,Fellowes Superior 10 Outlet Split Surge Protector,76.12,2,22.07
+02-14,Patrick O'Brill,Texas,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",88.78,3,7.77
+02-14,Julie Kriz,Florida,Technology,Accessories,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,799.92,10,239.98
+02-14,Shahid Hopkins,California,Technology,Phones,AT&T CL82213,46.38,2,5.22
+02-14,Steven Ward,Washington,Technology,Accessories,"Maxell 74 Minute CD-R Spindle, 50/Pack",41.94,2,15.1
+03-14,Denise Monton,New Jersey,Office Supplies,Binders,Avery Durable Binders,5.76,2,2.82
+03-14,Tracy Collins,California,Office Supplies,Art,Prang Dustless Chalk Sticks,6.72,4,3.36
+04-14,MaryBeth Skach,California,Furniture,Furnishings,"Executive Impressions 12"" Wall Clock",35.34,2,13.43
+04-14,William Brown,California,Technology,Phones,Polycom SoundPoint Pro SE-225 Corded phone,666.34,7,66.63
+04-14,Tiffany House,California,Office Supplies,Art,Newell 343,2.94,1,0.79
+05-14,Maribeth Dona,Pennsylvania,Furniture,Furnishings,Tenex Antistatic Computer Chair Mats,273.57,2,-34.2
+05-14,Barry Gonzalez,Virginia,Furniture,Chairs,"Global Stack Chair with Arms, Black",149.9,5,40.47
+07-14,Tamara Chand,Texas,Office Supplies,Binders,Satellite Sectional Post Binders,26.05,3,-44.28
+09-14,Benjamin Farhat,New York,Furniture,Furnishings,"Eldon 200 Class Desk Accessories, Black",56.52,9,21.48
+11-14,Pete Kriz,Wisconsin,Office Supplies,Storage,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",665.88,6,13.32
+11-14,Tracy Zic,Colorado,Office Supplies,Art,"BIC Brite Liner Grip Highlighters, Assorted, 5/Pack",3.39,1,0.81
+11-14,Karen Daniels,Texas,Office Supplies,Binders,GBC DocuBind TL300 Electric Binding System,896.99,5,-1480.03
+12-14,Roy Französisch,Texas,Office Supplies,Storage,"Personal Filing Tote with Lid, Black/Gray",49.63,4,4.96
+12-14,Darren Budd,Texas,Office Supplies,Art,Avery Fluorescent Highlighter Four-Color Set,2.67,1,0.33
+14-14,Maris LaWare,Connecticut,Technology,Phones,Polycom SoundPoint Pro SE-225 Corded phone,832.93,7,233.22
+14-14,Jeremy Lonsdale,Michigan,Office Supplies,Binders,Storex DuraTech Recycled Plastic Frosted Binders,12.72,3,6.36
+14-14,Candace McMahon,Texas,Office Supplies,Paper,Xerox 221,20.74,4,7.26
+14-14,Robert Marley,New York,Office Supplies,Paper,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",11.36,2,5.23
+15-14,Jamie Frazer,Tennessee,Office Supplies,Art,Newell 310,4.22,3,0.48
+15-14,Peter Bühler,Texas,Office Supplies,Envelopes,Ames Color-File Green Diamond Border X-ray Mailers,604.66,9,204.07
+16-14,Rick Huthwaite,Kansas,Technology,Phones,Jawbone MINI JAMBOX Wireless Bluetooth Speaker,273.96,2,10.96
+16-14,Adam Hart,California,Office Supplies,Labels,Permanent Self-Adhesive File Folder Labels for Typewriters by Universal,5.22,2,2.4
+16-14,Alan Barnes,Illinois,Furniture,Chairs,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,37.3,2,-1.07
+16-14,Justin Deggeller,California,Technology,Phones,OtterBox Commuter Series Case - Samsung Galaxy S4,79.97,4,-17.99
+17-14,Yoseph Carroll,Delaware,Office Supplies,Storage,Smead Adjustable Mobile File Trolley with Lockable Top,2934.33,7,792.27
+17-14,Randy Bradley,Pennsylvania,Office Supplies,Paper,"Southworth 100% Résumé Paper, 24lb.",12.45,2,3.89
+18-14,Pierre Wener,Colorado,Furniture,Tables,Bevis Rectangular Conference Tables,145.98,2,-99.27
+18-14,Ann Blume,Illinois,Office Supplies,Binders,"GBC White Gloss Covers, Plain Front",14.48,5,-23.89
+18-14,Joe Kamberova,Illinois,Furniture,Tables,BPI Conference Tables,292.1,4,-175.26
+18-14,Julie Creighton,Minnesota,Office Supplies,Storage,Fellowes Desktop Hanging File Manager,67.15,5,16.79
+18-14,Michael Kennedy,Wisconsin,Furniture,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,392.94,3,43.22
+19-14,John Murray,New York,Technology,Phones,Apple iPhone 5,4548.81,7,1228.18
+19-14,Georgia Rosenberg,Delaware,Office Supplies,Labels,Avery 480,22.5,6,10.8
+19-14,Dennis Bolton,Utah,Office Supplies,Paper,Xerox 1888,166.44,3,79.89
+19-14,Alan Dominguez,Pennsylvania,Office Supplies,Paper,"1/4 Fold Party Design Invitations & White Envelopes, 24 8-1/2"" X 11"" Cards, 25 Env./Pack",5.88,1,1.98
+21-14,Dave Hallsten,Kentucky,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",36.99,1,9.99
+21-14,Jason Klamczynski,Texas,Office Supplies,Envelopes,Poly String Tie Envelopes,1.63,1,0.55
+21-14,Steve Carroll,California,Office Supplies,Paper,Tops Wirebound Message Log Books,6.58,2,3.03
+22-14,Tony Chapman,Illinois,Office Supplies,Binders,"Avery Framed View Binder, EZD Ring (Locking), Navy, 1 1/2""",9.98,5,-16.47
+22-14,Susan Pistek,California,Office Supplies,Paper,Xerox 1895,53.82,9,24.22
+23-14,Saphhira Shifley,Texas,Furniture,Furnishings,Staple-based wall hangings,6.37,2,-2.55
+23-14,Phillip Breyer,Pennsylvania,Office Supplies,Envelopes,Quality Park Security Envelopes,62.81,3,21.2
+23-14,Sally Matthias,Arizona,Office Supplies,Envelopes,Staple envelope,23.47,3,8.8
+24-14,Nathan Gelder,Ohio,Office Supplies,Art,Crayola Colored Pencils,2.62,1,0.43
+24-14,Harold Ryan,Washington,Office Supplies,Binders,Peel & Stick Add-On Corner Pockets,12.1,7,4.23
+24-14,Darren Koutras,Illinois,Office Supplies,Storage,Fellowes Super Stor/Drawer Files,646.2,5,-8.08
+24-14,Nat Gilpin,Michigan,Office Supplies,Art,"Hunt PowerHouse Electric Pencil Sharpener, Blue",151.92,4,45.58
+24-14,Alyssa Tate,Ohio,Office Supplies,Binders,Acco Expandable Hanging Binders,5.74,3,-4.59
+25-14,Andy Reiter,Rhode Island,Furniture,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,52.96,2,20.12
+28-14,Bart Folk,Alabama,Office Supplies,Art,Newell 331,14.67,3,3.96
+28-14,Mary O'Rourke,New York,Office Supplies,Binders,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",17.25,2,6.04
+28-14,Brian Thompson,Texas,Technology,Machines,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,998.85,5,-199.77
+28-14,Matthew Clasen,Indiana,Office Supplies,Envelopes,Laser & Ink Jet Business Envelopes,64.02,6,29.45
+29-14,Bill Stewart,Illinois,Office Supplies,Fasteners,Staples,12.62,2,3.95
+29-14,Alan Hwang,California,Technology,Phones,Wilson SignalBoost 841262 DB PRO Amplifier Kit,575.92,2,71.99
+01-14,Toby Ritter,California,Furniture,Furnishings,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",58.2,3,28.52
+02-14,David Philippe,New York,Technology,Accessories,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,119.96,4,52.78
+02-14,Michael Dominguez,Texas,Furniture,Furnishings,"Deflect-o SuperTray Unbreakable Stackable Tray, Letter, Black",58.36,5,-24.8
+02-14,Katherine Nockton,Ohio,Technology,Accessories,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,119.8,5,29.95
+02-14,Matt Collins,Illinois,Office Supplies,Appliances,Staple holder,2.39,1,-6.34
+02-14,Elizabeth Moffitt,Georgia,Technology,Accessories,Kingston Digital DataTraveler 8GB USB 2.0,5.95,1,0.83
+04-14,Cathy Prescott,New York,Technology,Phones,Plantronics Voyager Pro HD - Bluetooth Headset,129.98,2,62.39
+05-14,David Kendrick,Illinois,Office Supplies,Storage,"Tenex File Box, Personal Filing Tote with Lid, Black",24.82,2,1.86
+05-14,Roy Collins,Virginia,Office Supplies,Storage,Recycled Eldon Regeneration Jumbo File,24.56,2,6.88
+05-14,Nona Balk,Pennsylvania,Office Supplies,Envelopes,Cameo Buff Policy Envelopes,348.49,7,117.61
+05-14,Rob Lucas,California,Office Supplies,Art,Prang Colored Pencils,26.46,9,11.91
+05-14,Joni Blumstein,California,Office Supplies,Appliances,Fellowes 8 Outlet Superior Workstation Surge Protector,250.26,6,72.58
+07-14,Frank Preis,California,Office Supplies,Art,Newell 32,8.64,3,2.42
+08-14,Thomas Boland,Texas,Office Supplies,Storage,"Companion Letter/Legal File, Black",60.42,2,6.04
+08-14,Tim Brockman,Oregon,Office Supplies,Labels,Avery 499,27.89,7,9.06
+08-14,Denny Joy,California,Furniture,Furnishings,Luxo Economy Swing Arm Lamp,39.88,2,11.17
+10-14,Sally Hughsby,Idaho,Furniture,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,338.35,3,4.23
+12-14,Craig Yedwab,Texas,Office Supplies,Binders,GBC DocuBind 300 Electric Binding Machine,210.39,2,-336.63
+12-14,Logan Haushalter,California,Furniture,Furnishings,"Eldon Image Series Desk Accessories, Burgundy",12.54,3,4.51
+13-14,Ralph Arnett,Texas,Office Supplies,Supplies,Acme Value Line Scissors,2.92,1,0.37
+13-14,Kimberly Carter,Kentucky,Office Supplies,Binders,"ACCOHIDE 3-Ring Binder, Blue, 1""",12.39,3,5.82
+14-14,Sung Shariari,Ohio,Office Supplies,Art,Newell 35,2.62,1,0.3
+14-14,Cari Sayre,Illinois,Office Supplies,Binders,GBC VeloBind Cover Sets,9.26,3,-13.9
+15-14,Sung Pak,Illinois,Furniture,Furnishings,Dana Swing-Arm Lamps,8.54,2,-7.48
+16-14,Chad Cunningham,California,Furniture,Furnishings,"Executive Impressions 14"" Contract Wall Clock",44.46,2,14.67
+16-14,Steve Chapman,Michigan,Office Supplies,Paper,Xerox 1929,114.2,5,52.53
+16-14,Stefanie Holloman,California,Furniture,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,1403.92,5,70.2
+16-14,Sean Christensen,Texas,Technology,Accessories,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,319.97,4,95.99
+17-14,Erin Creighton,Ohio,Office Supplies,Binders,Newell 3-Hole Punched Plastic Slotted Magazine Holders for Binders,5.48,4,-4.02
+19-14,Mike Kennedy,Florida,Office Supplies,Binders,Insertable Tab Post Binder Dividers,4.81,2,-3.69
+19-14,Irene Maddox,Alabama,Office Supplies,Binders,Canvas Sectional Post Binders,152.76,6,74.85
+20-14,Penelope Sewall,Virginia,Office Supplies,Storage,"SAFCO Commercial Wire Shelving, 72h",122.48,2,0
+20-14,Tony Sayre,Tennessee,Office Supplies,Appliances,Hoover Commercial Soft Guard Upright Vacuum And Disposable Filtration Bags,43.51,7,3.81
+20-14,Adrian Barton,Indiana,Office Supplies,Labels,Avery 487,3.69,1,1.73
+22-14,Khloe Miller,California,Office Supplies,Art,Newell 332,11.76,4,3.18
+22-14,Tamara Willingham,New York,Office Supplies,Binders,Lock-Up Easel 'Spel-Binder',296.71,13,100.14
+23-14,Sarah Foster,Indiana,Office Supplies,Appliances,Belkin F9H710-06 7 Outlet SurgeMaster Surge Protector,207.24,11,58.03
+23-14,Craig Carreira,Florida,Office Supplies,Paper,Computer Printout Paper with Letter-Trim Perforations,45.53,3,15.93
+26-14,Clytie Kelty,California,Office Supplies,Supplies,Acme Rosewood Handle Letter Opener,11.91,3,0.12
+26-14,Maureen Gnade,Pennsylvania,Office Supplies,Paper,"Wirebound Message Books, Two 4 1/4"" x 5"" Forms per Page",18.26,3,6.16
+27-14,Thomas Brumley,New York,Furniture,Chairs,"Global Push Button Manager's Chair, Indigo",767.21,14,161.97
+29-14,Debra Catini,Minnesota,Office Supplies,Storage,Recycled Eldon Regeneration Jumbo File,24.56,2,6.88
+29-14,Michael Granlund,Illinois,Furniture,Furnishings,"Master Caster Door Stop, Large Brown",8.74,3,-4.8
+29-14,Ricardo Emerson,Ohio,Office Supplies,Appliances,Acco 6 Outlet Guardian Standard Surge Suppressor,48.36,5,6.05
+30-14,Ken Brennan,Michigan,Office Supplies,Art,Newell 350,9.84,3,2.85
+30-14,Maureen Fritzler,Arizona,Office Supplies,Binders,Ibico Ibimaster 300 Manual Binding System,551.99,5,-459.99
+30-14,Alex Russell,Pennsylvania,Technology,Phones,ClearSounds CSC500 Amplified Spirit Phone Corded phone,251.96,6,-50.39
+31-14,Pamela Coakley,New York,Furniture,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",1573.49,7,196.69
+31-14,James Lanier,Nevada,Technology,Phones,Panasonic KX TS3282W Corded phone,475.94,7,59.49
+02-15,Claudia Bergmann,Delaware,Office Supplies,Storage,"SAFCO Mobile Desk Side File, Wire Frame",85.52,2,22.24
+03-15,Amy Hunt,Texas,Technology,Accessories,Enermax Acrylux Wireless Keyboard,398.4,5,84.66
+04-15,Andrew Gjertsen,Virginia,Furniture,Furnishings,DAX Wood Document Frame,192.22,14,69.2
+12-15,Yana Sorensen,Delaware,Office Supplies,Storage,"Dual Level, Single-Width Filing Carts",465.18,3,120.95
+12-15,Cindy Schnelling,Ohio,Office Supplies,Art,"BIC Brite Liner Highlighters, Chisel Tip",10.37,2,1.56
+13-15,Karen Seio,Georgia,Office Supplies,Labels,Avery 508,9.82,2,4.81
+24-15,Cyra Reiten,Florida,Office Supplies,Art,Crayola Colored Pencils,13.12,5,2.13
+03-15,Rick Wilson,California,Furniture,Furnishings,Hand-Finished Solid Wood Document Frame,136.92,4,41.08
+06-15,Trudy Schmidt,Texas,Office Supplies,Binders,UniKeep View Case Binders,2.93,3,-4.99
+06-15,Lori Olson,Virginia,Office Supplies,Storage,Tennsco Industrial Shelving,146.73,3,2.93
+09-15,Sarah Jordon,California,Furniture,Chairs,"Global Deluxe Stacking Chair, Gray",203.92,5,22.94
+18-15,Guy Thornton,California,Office Supplies,Labels,"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",61.06,2,28.09
+23-15,Lindsay Castell,New York,Office Supplies,Appliances,Hoover Portapower Portable Vacuum,26.88,6,6.72
+27-15,Nora Paige,Washington,Technology,Accessories,Microsoft Natural Keyboard Elite,538.92,9,80.84
+01-15,Tracy Poddar,Texas,Technology,Phones,Jackery Bar Premium Fast-charging Portable Charger,95.84,4,34.74
+02-15,Dave Kipp,Washington,Furniture,Tables,Hon Racetrack Conference Tables,787.53,3,165.38
+05-15,Alan Haines,Pennsylvania,Furniture,Chairs,"Situations Contoured Folding Chairs, 4/Set",99.37,2,-7.1
+05-15,Jennifer Jackson,Illinois,Office Supplies,Fasteners,Binder Clips by OIC,7.1,6,2.49
+08-15,Dana Kaydos,Wisconsin,Furniture,Bookcases,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",512.94,3,97.46
+09-15,Toby Gnade,North Carolina,Office Supplies,Labels,Avery 514,4.61,2,1.67
+12-15,Edward Becker,Florida,Office Supplies,Envelopes,Convenience Packs of Business Envelopes,8.69,3,2.93
+16-15,Christopher Martinez,Georgia,Office Supplies,Art,Rogers Handheld Barrel Pencil Sharpener,2.74,1,0.74
+16-15,Jeremy Ellison,Washington,Furniture,Tables,KI Adjustable-Height Table,171.96,2,44.71
+19-15,Jesus Ocampo,Washington,Technology,Phones,Wireless Extenders zBoost YX545 SOHO Signal Booster,453.58,3,39.69
+19-15,Corinna Mitchell,Texas,Office Supplies,Paper,Xerox 1919,65.58,2,23.77
+20-15,Bart Watters,Wisconsin,Office Supplies,Paper,Xerox 205,51.84,8,24.88
+21-15,Julia West,North Carolina,Office Supplies,Appliances,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,962.08,4,156.34
+22-15,Dean Braden,Texas,Technology,Accessories,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",18.39,1,5.29
+22-15,Fred Wasserman,Alabama,Office Supplies,Art,Newell 316,19.56,4,5.48
+24-15,Ben Peterman,Florida,Office Supplies,Appliances,"Eureka Sanitaire  Multi-Pro Heavy-Duty Upright, Disposable Bags",6.99,2,0.52
+26-15,Benjamin Venier,Florida,Office Supplies,Paper,Xerox 1988,74.35,3,23.24
+29-15,Chad McGuire,New York,Office Supplies,Paper,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",17.64,4,8.11
+02-15,Michael Oakman,Texas,Office Supplies,Appliances,APC 7 Outlet Network SurgeArrest Surge Protector,32.19,2,-80.48
+02-15,John Dryer,California,Technology,Machines,"Vtech AT&T CL2940 Corded Speakerphone, Black",71.98,3,24.29
+12-15,Robert Dilbeck,Washington,Office Supplies,Storage,"Rogers Jumbo File, Granite",40.74,3,0.41
+13-15,Anthony Witt,New Mexico,Office Supplies,Supplies,Martin-Yale Premier Letter Opener,12.88,1,0.39
+13-15,Heather Jas,Arizona,Office Supplies,Paper,Xerox 210,31.1,6,10.89
+13-15,Eugene Barchas,California,Furniture,Tables,"Iceberg OfficeWorks 42"" Round Tables",241.57,2,-15.1
+14-15,Theone Pippenger,Oregon,Office Supplies,Appliances,Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors,35.21,1,2.64
+18-15,Michael Paige,Texas,Technology,Accessories,"TRENDnet 56K USB 2.0 Phone, Internet and Fax Modem",41.42,2,8.28
+20-15,Olvera Toch,Michigan,Office Supplies,Envelopes,Tyvek Side-Opening Peel & Seel Expanding Envelopes,180.96,2,81.43
+21-15,Juliana Krohn,Kentucky,Furniture,Chairs,Global Deluxe Office Fabric Chairs,191.96,2,51.83
+25-15,Linda Southworth,California,Office Supplies,Envelopes,Laser & Ink Jet Business Envelopes,21.34,2,9.82
+30-15,Jane Waco,Massachusetts,Furniture,Furnishings,"Eldon 200 Class Desk Accessories, Burgundy",31.4,5,13.19
+01-15,David Bremer,Florida,Furniture,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,63.55,3,14.3
+03-15,Julia Barnett,California,Furniture,Furnishings,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",665.88,6,106.54
+03-15,Lena Cacioppo,California,Office Supplies,Art,Newell 317,8.82,3,2.56
+04-15,Stuart Van,Indiana,Office Supplies,Art,Model L Table or Wall-Mount Pencil Sharpener,125.93,7,35.26
+07-15,Anna Gayman,Texas,Furniture,Tables,Chromcraft Round Conference Tables,244.01,2,-31.37
+12-15,Rose O'Brian,Washington,Office Supplies,Binders,Prestige Round Ring Binders,14.59,3,4.92
+25-15,Justin Hirsh,Colorado,Office Supplies,Appliances,Kensington 4 Outlet MasterPiece Compact Power Control Center,845.73,13,84.57
+28-15,Neil Knudson,Washington,Office Supplies,Art,Newell 311,6.63,3,1.79
+30-15,Edward Nazzal,New York,Technology,Phones,RCA H5401RE1 DECT 6.0 4-Line Cordless Handset With Caller ID/Call Waiting,239.97,3,2.4
+30-15,Brendan Dodson,Virginia,Technology,Accessories,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,151.96,4,36.47
+31-15,Bill Donatelli,Minnesota,Furniture,Chairs,Hon Pagoda Stacking Chairs,2567.84,8,770.35
+31-15,Muhammed Lee,North Carolina,Office Supplies,Art,Newell 347,10.27,3,1.16
+01-15,Catherine Glotzbach,California,Office Supplies,Paper,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",11.76,2,5.76
+04-15,Becky Pak,California,Technology,Accessories,Logitech Wireless Anywhere Mouse MX for PC and Mac,119.98,2,35.99
+05-15,Brenda Bowman,Missouri,Office Supplies,Paper,Xerox 1981,10.56,2,4.75
+07-15,Eleni McCrary,California,Office Supplies,Binders,3-ring staple pack,7.52,5,2.63
+09-15,Max Jones,Florida,Office Supplies,Binders,"Green Canvas Binder for 8-1/2"" x 14"" Sheets",64.2,5,-42.8
+12-15,Giulietta Baptist,Pennsylvania,Office Supplies,Paper,Xerox 1997,20.74,4,7.26
+12-15,Jonathan Howell,Florida,Technology,Phones,Speck Products Candyshell Flip Case,55.98,2,4.2
+13-15,Frank Carlisle,Ohio,Office Supplies,Art,Newell 320,3.42,1,0.3
+18-15,Skye Norling,Arizona,Office Supplies,Paper,Xerox 1922,11.95,3,4.33
+20-15,Stewart Carmichael,California,Furniture,Furnishings,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",257.64,6,100.48
+22-15,Shaun Weien,New York,Office Supplies,Binders,GBC Ibimaster 500 Manual ProClick Binding System,1217.57,2,456.59
+25-15,Cathy Hwang,Pennsylvania,Office Supplies,Paper,Xerox 211,31.1,6,10.89
+02-15,Rob Haberlin,Illinois,Furniture,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,408.42,2,-5.83
+03-15,Bruce Degenhardt,Kentucky,Furniture,Chairs,Novimex High-Tech Fabric Mesh Task Chair,70.98,1,4.97
+05-15,Victor Preis,Michigan,Office Supplies,Binders,Durable Pressboard Binders,19,5,8.93
+06-15,Kalyca Meade,New York,Furniture,Furnishings,G.E. Halogen Desk Lamp Bulbs,13.96,2,6.7
+12-15,Fred McMath,Texas,Technology,Phones,Vtech CS6719,307.17,4,30.72
+17-15,Victoria Brennan,Texas,Office Supplies,Labels,Avery 479,6.26,3,2.04
+19-15,Thais Sissman,Arizona,Office Supplies,Binders,Wilson Jones DublLock D-Ring Binders,2.03,1,-1.35
+20-15,Ralph Kennedy,Indiana,Office Supplies,Storage,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",34.76,1,9.73
+02-15,Brad Eason,Rhode Island,Technology,Phones,Plantronics MX500i Earset,128.85,3,3.87
+07-15,Parhena Norris,California,Office Supplies,Binders,Cardinal Hold-It CD Pocket,19.15,3,6.46
+07-15,Eudokia Martin,Virginia,Technology,Phones,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",494.97,3,148.49
+08-15,Denny Blanton,Massachusetts,Office Supplies,Art,"Boston 1827 Commercial Additional Cutter, Drive Gear & Gear Rack for 1606",39.66,2,11.9
+11-15,Philisse Overcash,New York,Office Supplies,Art,Newell 330,11.96,2,3.11
+15-15,Tim Taslimi,California,Office Supplies,Storage,Fellowes Super Stor/Drawer Files,323.1,2,61.39
+16-15,Joni Wasserman,Pennsylvania,Office Supplies,Storage,Iris Project Case,44.69,7,3.35
+17-15,Shaun Chance,Massachusetts,Office Supplies,Binders,Wilson Jones Snap Scratch Pad Binder Tool for Ring Binders,52.2,9,23.49
+22-15,Dave Poirier,New York,Office Supplies,Binders,"Avery 3 1/2"" Diskette Storage Pages, 10/Pack",50.11,6,16.29
+22-15,Roger Barcio,New York,Office Supplies,Art,Newell Chalk Holder,16.52,4,7.6
+23-15,Fred Harton,Georgia,Office Supplies,Appliances,Avanti 4.4 Cu. Ft. Refrigerator,542.94,3,152.02
+24-15,Katrina Willman,Kentucky,Technology,Machines,Cisco 9971 IP Video Phone Charcoal,3080,7,1416.8
+05-15,Cathy Armstrong,Texas,Office Supplies,Binders,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",16.27,5,-25.22
+06-15,Chuck Clark,New York,Furniture,Chairs,"Global Airflow Leather Mesh Back Chair, Black",271.76,2,60.39
+08-15,Neoma Murray,California,Office Supplies,Paper,Xerox 1928,26.4,5,11.88
+10-15,Bobby Odegard,New York,Office Supplies,Art,Manco Dry-Lighter Erasable Highlighter,6.08,2,2.07
+13-15,Ken Dana,California,Furniture,Furnishings,Flat Face Poster Frame,131.88,7,55.39
+15-15,Brendan Murry,New York,Office Supplies,Binders,GBC Twin Loop Wire Binding Elements,79.87,3,29.95
+15-15,Ann Chong,Pennsylvania,Office Supplies,Binders,Avery Hidden Tab Dividers for Binding Systems,3.58,4,-2.86
+17-15,Meg O'Connel,California,Office Supplies,Paper,Xerox 216,32.4,5,15.55
+18-15,Justin Ritter,Florida,Technology,Accessories,Enermax Acrylux Wireless Keyboard,717.12,9,152.39
+18-15,Adam Bellavance,Washington,Office Supplies,Paper,"Wirebound Message Books, Four 2 3/4"" x 5"" Forms per Page, 600 Sets per Book",18.54,2,8.71
+18-15,Charlotte Melton,California,Office Supplies,Storage,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",443.92,4,8.88
+22-15,Sanjit Jacobs,Tennessee,Office Supplies,Labels,Avery 510,12,4,4.2
+24-15,Carlos Meador,Arizona,Technology,Phones,Samsung HM1900 Bluetooth Headset,35.12,2,13.17
+25-15,Dan Reichenbach,New York,Technology,Accessories,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,899.91,9,395.96
+26-15,Bryan Spruell,California,Office Supplies,Storage,"Sortfiler Multipurpose Personal File Organizer, Black",64.17,3,18.61
+27-15,Helen Wasserman,Michigan,Office Supplies,Art,Newell 321,16.4,5,4.76
+01-15,Eric Murdock,Illinois,Office Supplies,Binders,Accohide Poly Flexible Ring Binders,2.99,4,-4.49
+02-15,Henry MacAllister,California,Office Supplies,Binders,Pressboard Hanging Data Binders for Unburst Sheets,11.81,3,4.13
+05-15,Joel Jenkins,Virginia,Office Supplies,Art,Newell 324,46.2,4,12.94
+08-15,Gene Hale,Texas,Furniture,Furnishings,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",72.78,3,-70.96
+11-15,Sean O'Donnell,Florida,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,957.58,5,-383.03
+15-15,Claire Gute,Texas,Furniture,Furnishings,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",131.38,6,-95.25
+23-15,Jay Fein,California,Technology,Accessories,Maxell DVD-RAM Discs,148.32,9,63.78
+26-15,Maribeth Yedwab,California,Office Supplies,Labels,Avery 507,5.76,2,2.65
+31-15,Sandra Glassco,California,Office Supplies,Paper,Xerox 191,19.98,1,9.39
+02-15,Kelly Collister,Washington,Technology,Accessories,Logitech K350 2.4Ghz Wireless Keyboard,447.93,9,49.27
+02-15,Emily Grady,Virginia,Office Supplies,Appliances,"Eureka Hand Vacuum, Bagless",197.72,4,55.36
+05-15,Christy Brittain,Ohio,Office Supplies,Binders,Insertable Tab Post Binder Dividers,7.22,3,-5.53
+06-15,Meg Tillman,Arizona,Office Supplies,Envelopes,"Redi-Strip #10 Envelopes, 4 1/8 x 9 1/2",7.08,3,2.48
+07-15,Doug O'Connell,Texas,Office Supplies,Paper,Xerox 1886,76.64,2,26.82
+08-15,Maria Zettner,California,Office Supplies,Fasteners,Advantus Plastic Paper Clips,5,1,2.4
+17-15,Greg Hansen,Illinois,Office Supplies,Supplies,Acme Box Cutter Scissors,40.92,5,3.07
+20-15,Patrick Bzostek,California,Office Supplies,Binders,Cardinal Poly Pocket Divider Pockets for Ring Binders,24.19,9,7.56
+20-15,Katrina Bavinger,Washington,Office Supplies,Art,Newell 334,119.04,6,30.95
+28-15,Tom Prescott,New York,Furniture,Furnishings,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",322.59,3,64.52
+04-15,Ritsa Hightower,Florida,Office Supplies,Binders,SpineVue Locking Slant-D Ring Binders by Cardinal,8.23,3,-6.03
+05-15,Matt Hagelstein,California,Furniture,Furnishings,"Executive Impressions 14"" Contract Wall Clock",44.46,2,14.67
+05-15,Stephanie Ulpright,Michigan,Office Supplies,Binders,Surelock Post Binders,152.8,5,76.4
+06-15,Art Ferguson,California,Office Supplies,Appliances,"Commercial WindTunnel Clean Air Upright Vacuum, Replacement Belts, Filtration Bags",7.78,2,2.02
+08-15,Tonja Turnell,Texas,Office Supplies,Paper,Xerox 1945,360.71,11,130.76
+11-15,Stuart Calhoun,Texas,Technology,Accessories,Logitech Wireless Performance Mouse MX for PC and Mac,159.98,2,36
+14-15,Doug Jacobs,Oregon,Technology,Phones,HTC One,319.97,4,36
+19-15,Peter McVee,New Hampshire,Office Supplies,Paper,Xerox 1903,29.9,5,14.65
+20-15,Evan Minnotte,Florida,Office Supplies,Labels,Avery 486,11.7,2,3.95
+21-15,Elpida Rittenbach,Colorado,Office Supplies,Appliances,Belkin 6 Outlet Metallic Surge Strip,60.98,7,4.57
+24-15,Jim Radford,Colorado,Furniture,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",590.06,7,-786.74
+25-15,Dionis Lloyd,Michigan,Technology,Phones,"Logitech B530 USB Headset - headset - Full size, Binaural",73.98,2,19.97
+27-15,Brad Thomas,Maryland,Office Supplies,Paper,Xerox 1950,28.9,5,14.16
+03-16,Bill Overfelt,Oklahoma,Furniture,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",1592.85,7,350.43
+04-16,Erica Bern,North Carolina,Technology,Copiers,Hewlett Packard 310 Color Digital Copier,959.97,4,120
+10-16,Joy Bell-,Washington,Furniture,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",24.85,5,7.7
+15-16,Bill Eplett,New York,Office Supplies,Paper,Xerox 1893,81.98,2,40.17
+25-16,Todd Boyes,New Jersey,Office Supplies,Art,"Dixon Ticonderoga Maple Cedar Pencil, #2",9.21,3,2.3
+30-16,Harold Engle,Illinois,Office Supplies,Paper,Xerox 1943,156.51,4,52.82
+07-16,Bobby Elias,Ohio,Office Supplies,Paper,Xerox 1912,30.35,2,10.62
+27-16,Don Weiss,Texas,Furniture,Furnishings,DAX Two-Tone Silver Metal Document Frame,16.19,2,-6.88
+03-16,Jason Gross,Texas,Office Supplies,Paper,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",42.78,7,15.51
+10-16,Caroline Jumper,New York,Furniture,Bookcases,O'Sullivan Living Dimensions 5-Shelf Bookcases,176.78,1,-22.1
+10-16,Bryan Davis,Pennsylvania,Technology,Accessories,Plantronics Audio 478 Stereo USB Headset,39.99,1,7.5
+14-16,Henia Zydlo,Ohio,Furniture,Furnishings,Advantus Panel Wall Acrylic Frame,21.88,5,6.29
+19-16,Susan Vittorini,New York,Furniture,Furnishings,"GE 4 Foot Flourescent Tube, 40 Watt",14.98,1,6.89
+29-16,Janet Martin,New York,Office Supplies,Paper,"Memo Book, 100 Message Capacity, 5 3/8 x 11",13.48,2,6.74
+01-16,Raymond Buch,New York,Office Supplies,Art,Newell 345,59.52,3,15.48
+09-16,Sean Wendt,Michigan,Technology,Phones,Nortel Meridian M5316 Digital phone,517.9,2,134.65
+14-16,Jill Matthias,Maryland,Office Supplies,Binders,GBC ProClick Spines for 32-Hole Punch,25.06,2,11.78
+18-16,Clay Rozendal,Illinois,Office Supplies,Storage,Safco Industrial Wire Shelving,230.38,3,-48.95
+22-16,Ed Ludwig,Missouri,Furniture,Furnishings,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,86.62,2,8.66
+24-16,Craig Leslie,Colorado,Office Supplies,Paper,Xerox 226,15.55,3,5.44
+28-16,Rob Beeghly,Illinois,Furniture,Furnishings,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",30.34,2,-31.86
+01-16,Chris McAfee,Arkansas,Office Supplies,Paper,Xerox 1914,109.92,2,53.86
+03-16,Susan MacKendrick,Ohio,Technology,Accessories,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,132.52,5,34.79
+05-16,Lindsay Williams,Nevada,Furniture,Tables,Global Adaptabilities Conference Tables,1685.88,6,320.32
+09-16,Cynthia Voltz,Texas,Office Supplies,Storage,"Hot File 7-Pocket, Floor Stand",856.66,6,107.08
+21-16,Alejandro Savely,Texas,Office Supplies,Binders,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",1.96,2,-3.24
+23-16,Christopher Conant,Pennsylvania,Technology,Copiers,Canon imageCLASS 2200 Advanced Copier,8399.98,4,1120
+30-16,Robert Waldorf,North Carolina,Office Supplies,Binders,Angle-D Ring Binders,3.28,2,-2.63
+06-16,Scot Coram,Massachusetts,Office Supplies,Paper,Xerox 1935,105.52,4,48.54
+06-16,Liz Preis,Ohio,Furniture,Furnishings,Electrix Halogen Magnifier Lamp,466.32,3,34.97
+07-16,Roy Skaria,Pennsylvania,Office Supplies,Fasteners,Ideal Clamps,9.65,6,3.5
+12-16,Darrin Van Huff,California,Office Supplies,Labels,Self-Adhesive Address Labels for Typewriters by Universal,14.62,2,6.87
+14-16,Jim Sink,Pennsylvania,Furniture,Tables,Global Adaptabilities Conference Tables,337.18,2,-118.01
+17-16,Ted Butterfield,New York,Office Supplies,Storage,Home/Office Personal File Carts,208.56,6,52.14
+26-16,Lela Donovan,Illinois,Office Supplies,Art,Newell 311,5.3,3,0.46
+26-16,Phillip Flathmann,Georgia,Technology,Phones,Cisco IP Phone 7961G VoIP phone - Dark gray,135.95,1,39.43
+14-16,Anemone Ratner,Georgia,Office Supplies,Binders,Cardinal Holdit Data Disk Pockets,36.4,5,17.11
+25-16,Larry Blacks,California,Office Supplies,Fasteners,OIC Binder Clips,21.48,6,10.74
+03-16,Alex Grayson,Oklahoma,Office Supplies,Envelopes,"Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",81.54,3,38.32
+04-16,Max Ludwig,Virginia,Office Supplies,Supplies,"Acme 10"" Easy Grip Assistive Scissors",35.06,2,10.52
+16-16,Anthony O'Donnell,California,Furniture,Tables,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",161.28,2,12.1
+23-16,Mick Hernandez,Texas,Office Supplies,Storage,SAFCO Boltless Steel Shelving,727.3,8,-172.73
+21-16,Charles McCrossin,Maryland,Technology,Accessories,Logitech Desktop MK120 Mouse and keyboard Combo,98.16,6,9.82
+11-16,Sung Chung,Illinois,Office Supplies,Art,Newell 332,14.11,6,1.23
+13-16,Adrian Shami,Washington,Furniture,Furnishings,"Eldon Image Series Desk Accessories, Burgundy",4.18,1,1.5
+14-16,Ralph Ritter,California,Office Supplies,Labels,Avery 52,7.38,2,3.47
+24-16,Neola Schneider,Texas,Office Supplies,Storage,Sterilite Officeware Hinged File Box,41.92,5,3.67
+24-16,Carol Darley,Oregon,Office Supplies,Paper,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",24.78,1,7.75
+28-16,Sally Knutson,Connecticut,Office Supplies,Binders,Avery Poly Binder Pockets,7.16,2,3.44
+05-16,Justin Ellison,Wisconsin,Technology,Phones,Plantronics Cordless Phone Headset with In-line Volume - M214C,384.45,11,103.8
+30-16,Carl Jackson,Pennsylvania,Office Supplies,Art,Newell 31,16.52,5,1.65
+06-17,Roland Murray,New York,Office Supplies,Paper,Xerox 1883,26.38,1,12.13
+26-17,Michelle Lonsdale,Michigan,Furniture,Furnishings,"Career Cubicle Clock, 8 1/4"", Black",60.84,3,23.12
+30-17,Tony Molinari,Oklahoma,Office Supplies,Envelopes,Multimedia Mailers,325.86,2,149.9
+10-17,Mitch Gastineau,Florida,Furniture,Furnishings,Stackable Trays,12.32,5,1.85
+15-17,Clay Cheatham,California,Technology,Phones,Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,47.98,3,4.8
+03-17,Chuck Sachs,Georgia,Furniture,Furnishings,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",23.99,1,5.52
+08-17,Jenna Caffey,Washington,Furniture,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",198.46,2,99.23
+15-17,Theresa Coyne,New Jersey,Furniture,Furnishings,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",47.4,5,18.96
+21-17,Patricia Hirasaki,Florida,Furniture,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,683.95,3,42.75
+23-17,Jocasta Rupert,Florida,Technology,Phones,Wilson SignalBoost 841262 DB PRO Amplifier Kit,863.88,3,107.99
+05-17,Christina DeMoss,New York,Office Supplies,Binders,GBC Prestige Therm-A-Bind Covers,164.69,6,55.58
+,Christina DeMoss,,,,,,,
+,Jocasta Rupert,,,,,,,
+,Tony Molinari,,,,,,,
